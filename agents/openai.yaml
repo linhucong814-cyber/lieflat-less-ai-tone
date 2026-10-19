@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然语气"
+  short_description: "按明确规则清理中文成稿中的 AI 表达，保留原文信息与文章框架"
+  default_prompt: "使用 $lieflat-less-ai-tone 检查以下中文成稿，只修改命中规则的表达，保留事实和文章框架。"
